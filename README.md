@@ -1,4 +1,4 @@
-### 考研中ing 暂停更新
+### hello there!
 ![Rand0w's github stats](https://github-readme-stats.vercel.app/api?username=randowlh&show_icons=true&theme=tokyonight&count_private=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randowlh)  -->
 <!--
